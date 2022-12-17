@@ -1,0 +1,74 @@
+.container2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.show-country-detail {
+  color: rgb(4, 230, 230);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.single-map-image {
+  width: 30%;
+  height: 15rem;
+  margin-top: 10px;
+}
+
+.detail2 {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  color: rgb(0, 0, 0);
+  width: 99%;
+  height: auto;
+  border: 3px solid black;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.row {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
+
+span {
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 400px) {
+  .card2 {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+
+  .single-map-image {
+    min-width: 100%;
+  }
+
+  .detail2 {
+    display: flex;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+  }
+}
