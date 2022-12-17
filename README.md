@@ -134,7 +134,7 @@ Clone this repository to your desired folder:
 
 - mkdir my-folder
 - cd my-folder
-- git clone [(https://github.com/RashidMenhas/Third-Capstone-Project.git)]
+- git clone [(https://github.com/RashidMenhas/Thired-Capstone-Project.git)]
 
 ### Install
 
