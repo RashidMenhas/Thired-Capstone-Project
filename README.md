@@ -1,70 +1,245 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## Available Scripts
+Modify this file to match your project and remove sections that don't apply.
 
-In the project directory, you can run:
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-### `npm start`
+After you're finished please remove all the comments and instructions!
+-->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
 
-### `npm run build`
+# 📗 Table of Contents
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Europe Countries Map ](#-europe-countries-map-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- PROJECT DESCRIPTION -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 📖 Europe Countries Map <a name="about-project"></a>
 
-### `npm run eject`
+> React and Redux single page application that contain eurpean countries infromation.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**[Europe Countries Map]** is a react and redux single page application.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Built With <a name="built-with"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Tech Stack <a name="tech-stack"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-## Learn More
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-### Code Splitting
+<!-- Features -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Key Features <a name="key-features"></a>
 
-### Analyzing the Bundle Size
+> Features of the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **See all european country**
+- **See all countries information**
+- **Have Mobile version**
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- LIVE DEMO -->
 
-### Advanced Configuration
+## 🚀 Live Demo <a name="live-demo"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> Add a link to your deployed project.
+
+- [Live Demo Link]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Laptop/Desktop.
+- Internet.
+- Node.
+- Vs Code.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- mkdir my-folder
+- cd my-folder
+- git clone [(https://github.com/RashidMenhas/Third-Capstone-Project.git)]
+
+### Install
+
+Install this project with:
+
+**you can run any one of these commands to install npm on your machine:**
+
+- npm i
+- npm install
+- sudo apt install npm
+
+### Usage
+
+To run the project, execute the following command:
+
+- npm start.
+
+### Run tests
+
+- npm test.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Rashid Menhas**
+
+- GitHub: [@githubhandle](https://github.com/RashidMenhas)
+- Twitter: [@twitterhandle](https://twitter.com/RashidM83664789)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rashid-menhas/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Features I will add to the project.
+
+- [ ] **Add all worlds countries**
+- [ ] **Add more information about the countries**
+- [ ] **Add map of every country with its borders**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project you can give star and fork it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Nelson Sakwa on Behance for providing us this template.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **How to go back to the homepage?**
+
+  - You can simply click the the left arrow in the top-left corner of the page.
+
+- **How contribute to the repo?**
+
+  - You can simply send me an email and I will add you as a collabrator.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
