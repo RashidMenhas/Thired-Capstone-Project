@@ -28,7 +28,7 @@
   
   .title {
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   @media only screen and (max-width: 400px) {
